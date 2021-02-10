@@ -1,5 +1,5 @@
 # CMPSCI 4760 Assignment 1
-####Written by: Philip Wright
+#### Written by: Philip Wright
 
 Purpose of Program
 ------------------
